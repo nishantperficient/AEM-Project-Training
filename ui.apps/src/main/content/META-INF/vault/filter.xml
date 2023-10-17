@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/aem-bootcamp/clientlibs"/>
+    <filter root="/apps/aem-bootcamp/components"/>
+    <filter root="/apps/aem-bootcamp/i18n"/>
+</workspaceFilter>
